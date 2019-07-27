@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mainmenu li{
+	display:inline;
+	margin-left: 40px;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	
+	
+}
+
+body{
+	background-color:ivory;
+	color:blueviolet;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+h1,h2,h3,h4,h5,h6{
+	color:darkolivegreen;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+	
